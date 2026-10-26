@@ -2,6 +2,15 @@
 
 Proyek Data Science — Program Studi Informatika, Fakultas Teknik Industri, Universitas Pembangunan Nasional “Veteran” Yogyakarta.
 
+##  Nomor Kelompok : 50
+##  Nama Kelompok : Next Level
+##  Anggota Kelompok :
+
+- Dwirizki Adithya Putra — 123240021
+- Satya Dio Putranto — 123240121
+- Sebastian Alvaro Huller — 123240162
+- Paksi Dwirangga — 123240172
+
 ## Ringkasan
 
 Proyek ini menganalisis inventaris kendaraan operasional penanggulangan kebakaran dan penyelamatan DKI Jakarta pada periode data 2025. Fokus proyek ini adalah **Business Understanding** dan **Data Understanding**: audit kualitas, eksplorasi kondisi aset, analisis kategori, dan penilaian kelayakan awal untuk pemodelan lanjutan.
@@ -80,10 +89,3 @@ File sumber yang diperiksa berformat ekstensi `.xls`, tetapi terbaca sebagai tab
 - Proporsi pada kelompok kecil memiliki ketidakpastian tinggi; tampilkan jumlah dan persentase.
 - `plat_nomor` tidak digunakan sebagai fitur model.
 - Asosiasi bukan kausalitas; model tidak membuktikan penyebab kerusakan atau kecukupan alokasi.
-
-## Tim
-
-- Dwirizki Adithya Putra — 123240021
-- Satya Dio Putranto — 123240121
-- Sebastian Alvaro Huller — 123240162
-- Paksi Dwirangga — 123240172
