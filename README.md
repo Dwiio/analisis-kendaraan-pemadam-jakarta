@@ -2,8 +2,8 @@
 
 Proyek Data Science — Program Studi Informatika, Fakultas Teknik Industri, Universitas Pembangunan Nasional “Veteran” Yogyakarta.
 
-##  Nomor Kelompok : 50
-##  Nama Kelompok : Next Level
+###  Nomor Kelompok : 50
+###  Nama Kelompok : Next Level
 ##  Anggota Kelompok :
 
 - Dwirizki Adithya Putra — 123240021
